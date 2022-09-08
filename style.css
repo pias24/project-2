@@ -1,0 +1,168 @@
+*{margin: 0; padding: 0;}
+.container_full{
+    width: 100%;
+    margin:auto;
+    border-bottom: 1px solid black;
+}
+.bg{
+    background-color: rgb(227, 16, 37);
+}
+/*header...................
+..........................*/
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+.bg1{
+    background-color: orange;
+    height: 60px;
+}
+.header .logo>h2{
+    font-family: sansation;
+    font-weight: bold;
+    color: rgb(238, 8, 62);
+    float: left;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.nav{
+
+}
+.nav ul{
+float:left;
+margin-left: 150px;
+margin-top: 15px;
+}
+.nav ul li{
+list-style-type: none;
+float:right;
+
+}
+.nav ul li a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    padding:15px;
+}
+.nav ul li a:hover{
+
+}
+.signup a>img{
+    float: right;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+/*........................
+..........................
+.........................*/
+
+/* section starts...................
+.................................*/
+section>img{
+    width: 960px;
+}
+.bg2{
+    background-color: aqua;
+}
+section .button{
+    text-align: center;
+}
+section .button>button{
+   border-radius: 30px;
+   padding: 15px;
+   margin: 10px;
+   background-color: orange;
+}
+section .button:hover{
+    background-color: black;
+    color: azure;
+}
+.bg3{
+    background-color: rgb(12, 182, 12);
+}
+/*.................................
+...................................
+..................................*/
+.bg4{
+    background-color: rgb(225, 237, 233);
+}
+
+.bg5{
+    background-color: rgb(93, 98, 97);
+}
+main:hover{
+    background-color: rgb(234, 119, 18);
+}
+main>h1{
+    text-align: center;
+    color: azure;
+}
+main>p{
+    margin: 10px;
+    color: azure;
+}
+/*.............................
+...............................
+...............................*/
+
+/* main under starts...............
+..................................*/
+.bg6{
+    background-color: darkgrey;
+}
+
+.bg7{
+    background-color: rgb(103, 112, 109);
+}
+.bg7:hover{
+    background-color: aquamarine;
+}
+/*.................*/
+.row .col>h1{
+    text-align: center;
+}
+.row .col>p{
+    text-align: center;
+}
+.bg7_1{
+    background-color: blueviolet;
+}
+.bg7_1:hover{
+    background-color: rgb(214, 94, 24);
+}
+/*.................*/
+
+.row .col2>h1{
+    text-align: center;
+}
+.row .col2>p{
+    text-align: center;
+}
+
+
+
+
+/* footertop..................................
+............................................*/
+.bg8{
+    background-color: blue;
+}
+.bg9{
+    background-color: orange;
+}
+.footertop>img{
+    width: 960px;
+    /*............................................
+    .........................................
+    .........................................*/
+}
+/*footer.........................
+............................*/
+footer>h3{
+    background-color: dimgray;
+    text-align: center;
+    color: antiquewhite;
+}
+   /*............................................
+    .........................................
+    .........................................*/
